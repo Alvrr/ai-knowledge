@@ -1,0 +1,708 @@
+{
+  "total": 100,
+  "limit": 100,
+  "offset": 0,
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "category": "Kependudukan",
+      "title": "Pembuatan KTP Elektronik Baru bagi Pemula",
+      "content": "Layanan perekaman dan penerbitan KTP elektronik baru diperuntukkan bagi warga negara Indonesia yang telah genap berusia 17 tahun atau sudah menikah. Pemohon cukup membawa fotokopi Kartu Keluarga (KK) terbaru ke kantor kecamatan atau kantor Disdukcapil setempat tanpa dipungut biaya. Petugas akan melakukan verifikasi berkas lalu dilanjutkan perekaman data biometrik meliputi foto wajah, pemindaian sidik jari, iris mata, dan tanda tangan digital. Blanko KTP yang telah selesai dicetak umumnya dapat diambil dalam kurun waktu 1 hingga 3 hari kerja.",
+      "created_at": "2026-09-20T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "category": "Kependudukan",
+      "title": "Penggantian KTP Rusak, Patah, atau Tulisan Pudar",
+      "content": "Warga yang memiliki KTP elektronik dengan kondisi fisik patah, terkelupas, chip tidak terbaca, atau tulisan dan foto telah memudar dapat mengajukan pencetakan ulang. Pemohon tidak perlu melakukan perekaman sidik jari ulang, melainkan cukup menyerahkan fisik KTP lama yang rusak beserta fotokopi Kartu Keluarga ke loket pelayanan adminduk. Pelayanan ini bersifat gratis dan langsung diproses cetak jika ketersediaan blanko KTP di dinas sedang mencukupi.",
+      "created_at": "2026-09-20T08:05:00Z"
+    },
+    {
+      "id": 3,
+      "category": "Kependudukan",
+      "title": "Penerbitan Surat Keterangan dan Cetak KTP Hilang",
+      "content": "Bagi penduduk yang kehilangan KTP elektronik, langkah awal yang harus dilakukan adalah melapor ke Polsek setempat untuk mendapatkan Surat Tanda Lapor Kehilangan. Setelah itu, bawa surat kepolisian tersebut bersama fotokopi Kartu Keluarga ke kantor kecamatan atau Disdukcapil. Petugas akan memvalidasi NIK pemohon di database kependudukan nasional sebelum mencetak fisik KTP yang baru tanpa memungut biaya retribusi.",
+      "created_at": "2026-09-20T08:10:00Z"
+    },
+    {
+      "id": 4,
+      "category": "Kependudukan",
+      "title": "Pembaruan Data pada Kartu Keluarga (KK)",
+      "content": "Pembaruan Kartu Keluarga diperlukan apabila terdapat perubahan elemen data, seperti penambahan anggota keluarga karena kelahiran, pengurangan karena anggota wafat atau pindah, serta pembaruan tingkat pendidikan atau pekerjaan. Pemohon harus mengisi formulir permohonan pembaruan KK di kelurahan dengan melampirkan berkas pendukung asli seperti akta kelahiran, surat nikah, atau ijazah terbaru. KK baru yang berformat barcode digital dapat diunduh dan dicetak mandiri menggunakan kertas HVS putih ukuran A4 80 gram.",
+      "created_at": "2026-09-20T08:15:00Z"
+    },
+    {
+      "id": 5,
+      "category": "Kependudukan",
+      "title": "Pemisahan Kartu Keluarga Mandiri Pasca Menikah",
+      "content": "Pasangan suami istri yang baru melangsungkan perkawinan sah dianjurkan segera memisahkan diri dari Kartu Keluarga orang tua masing-masing untuk membentuk KK mandiri. Berkas yang dipersiapkan mencakup fotokopi buku nikah atau akta perkawinan, fotokopi KK lama kedua belah pihak, serta surat pengantar dari RT dan RW jika diperlukan. Layanan ini memastikan kepala keluarga dan susunan keluarga tercatat resmi dalam sistem administrasi kependudukan nasional.",
+      "created_at": "2026-09-20T08:20:00Z"
+    },
+    {
+      "id": 6,
+      "category": "Kependudukan",
+      "title": "Penerbitan Akta Kelahiran Baru Anak",
+      "content": "Pencatatan kelahiran anak wajib dilaporkan selambat-lambatnya 60 hari sejak hari kelahiran agar diterbitkan Akta Kelahiran dan penambahan NIK baru pada Kartu Keluarga. Persyaratan yang harus diserahkan ke Disdukcapil meliputi surat keterangan lahir dari dokter, bidan, atau fasilitas kesehatan, buku nikah orang tua, fotokopi KTP kedua orang tua, serta saksi kelahiran. Dokumen akta kelahiran saat ini diterbitkan secara digital dengan tanda tangan elektronik berupa kode QR yang sah.",
+      "created_at": "2026-09-20T08:25:00Z"
+    },
+    {
+      "id": 7,
+      "category": "Kependudukan",
+      "title": "Pengurusan Akta Kematian dan Penghapusan Data NIK",
+      "content": "Pelaporan peristiwa kematian warga bertujuan untuk menerbitkan Akta Kematian resmi sekaligus memperbarui data kependudukan keluarga yang ditinggalkan agar NIK almarhum tidak disalahgunakan. Ahli waris perlu menyiapkan surat kematian dari rumah sakit atau kelurahan, KTP asli almarhum, serta Kartu Keluarga. Akta kematian sangat dibutuhkan untuk pengurusan hak waris, klaim asuransi jiwa, penghentian jaminan sosial, dan pembagian hak pensiun.",
+      "created_at": "2026-09-20T08:30:00Z"
+    },
+    {
+      "id": 8,
+      "category": "Kependudukan",
+      "title": "Surat Keterangan Pindah WNI (SKPWNI) Antar Daerah",
+      "content": "Penduduk yang hendak menetap di kabupaten atau kota lain diwajibkan mengurus Surat Keterangan Pindah WNI (SKPWNI) di daerah asal. Berkas yang dibutuhkan hanyalah Kartu Keluarga asli dan mengisi formulir permohonan pindah ke alamat tujuan secara lengkap. Setelah SKPWNI diterbitkan, pemohon membawanya ke kantor Disdukcapil tujuan untuk diterbitkan Kartu Keluarga dan KTP elektronik beralamat baru tanpa perlu surat pengantar RT/RW.",
+      "created_at": "2026-09-20T08:35:00Z"
+    },
+    {
+      "id": 9,
+      "category": "Kependudukan",
+      "title": "Penerbitan Kartu Identitas Anak (KIA)",
+      "content": "Kartu Identitas Anak (KIA) merupakan tanda pengenal resmi yang diterbitkan pemerintah untuk anak berusia 0 hingga 17 tahun kurang satu hari guna melindungi hak sipil anak. Untuk anak usia 0-5 tahun tidak memerlukan pasfoto, sedangkan usia 5-16 tahun menyertakan pasfoto ukuran 2x3 berwarna. Pengurusan KIA memerlukan fotokopi akta kelahiran, Kartu Keluarga, dan KTP orang tua, serta sangat berguna untuk pendaftaran sekolah dan administrasi perbankan anak.",
+      "created_at": "2026-09-20T08:40:00Z"
+    },
+    {
+      "id": 10,
+      "category": "Kependudukan",
+      "title": "Pembetulan Ejaan Nama pada Dokumen Catatan Sipil",
+      "content": "Apabila terdapat ketidaksesuaian ejaan nama pada KTP atau KK dengan dokumen dasar seperti ijazah kelulusan atau akta lahir, warga dapat mengajukan perbaikan dokumen ke Disdukcapil. Pemohon membawa dokumen pembanding asli yang paling valid beserta formulir permohonan pembetulan data. Petugas akan melakukan verifikasi silang dokumen, dan perbaikan nama administratif yang sifatnya kesalahan tulis ringan dapat diselesaikan tanpa perlu penetapan pengadilan negeri.",
+      "created_at": "2026-09-20T08:45:00Z"
+    },
+    {
+      "id": 11,
+      "category": "Kesehatan",
+      "title": "Pendaftaran Pasien Berobat BPJS di Puskesmas",
+      "content": "Pelayanan pemeriksaan kesehatan bagi peserta BPJS Kesehatan di Fasilitas Kesehatan Tingkat Pertama (FKTP) Puskesmas dapat diakses secara gratis. Pasien cukup menunjukkan KTP atau kartu BPJS digital melalui aplikasi Mobile JKN di loket pendaftaran. Pasien akan mendapatkan pemeriksaan oleh dokter umum, tindakan medis dasar, serta pengambilan obat di apotek puskesmas sesuai formularium obat nasional yang ditanggung penuh BPJS.",
+      "created_at": "2026-09-20T08:50:00Z"
+    },
+    {
+      "id": 12,
+      "category": "Kesehatan",
+      "title": "Layanan Imunisasi Dasar Lengkap Bayi di Puskesmas",
+      "content": "Puskesmas menyelenggarakan program imunisasi dasar lengkap secara rutin bagi bayi usia 0 hingga 11 bulan guna mencegah penyakit menular seperti polio, campak, hepatitis B, difteri, dan tetanus. Pelayanan ini dilaksanakan pada hari kerja tertentu atau melalui kegiatan posyandu lingkungan. Orang tua hanya perlu membawa buku KIA (Kesehatan Ibu dan Anak) untuk pencatatan riwayat vaksinasi dan konsultasi perkembangan balita.",
+      "created_at": "2026-09-20T08:55:00Z"
+    },
+    {
+      "id": 13,
+      "category": "Kesehatan",
+      "title": "Pemeriksaan Antenatal Care (ANC) Ibu Hamil",
+      "content": "Pemeriksaan antenatal care (ANC) berkala di puskesmas ditujukan untuk memantau status kesehatan ibu hamil dan mendeteksi secara dini potensi komplikasi kehamilan. Layanan mencakup pengukuran tekanan darah, penimbangan berat badan, pemeriksaan USG trimester pertama, tes laboratorium darah lengkap, serta pemberian tablet tambah darah gratis. Pemeriksaan minimal dilakukan sebanyak enam kali selama masa kehamilan dipandu oleh bidan dan dokter.",
+      "created_at": "2026-09-20T09:00:00Z"
+    },
+    {
+      "id": 14,
+      "category": "Kesehatan",
+      "title": "Pelayanan Program Pengelolaan Penyakit Kronis (Prolanis)",
+      "content": "Program Prolanis diselenggarakan di puskesmas untuk membantu pasien penderita penyakit diabetes melitus dan hipertensi agar kondisi kesehatannya tetap terkontrol. Peserta mendapatkan konsultasi medis berkala, pemeriksaan laboratorium gula darah dan profil lipid rutin, edukasi gaya hidup sehat, senam bersama, serta peresepan obat jangka panjang selama 30 hari tanpa perlu antre berulang kali.",
+      "created_at": "2026-09-20T09:05:00Z"
+    },
+    {
+      "id": 15,
+      "category": "Kesehatan",
+      "title": "Prosedur Pembuatan Surat Rujukan Berjenjang BPJS",
+      "content": "Pasien peserta BPJS Kesehatan yang membutuhkan penanganan medis spesialis di rumah sakit harus melalui pemeriksaan awal di FKTP puskesmas terlebih dahulu. Dokter puskesmas akan menilai indikasi medis, dan jika sarana puskesmas tidak memadai, dokter akan menerbitkan surat rujukan berjenjang online ke poliklinik rumah sakit yang sesuai. Surat rujukan ini memiliki masa berlaku 90 hari dan dapat diperpanjang sesuai anjuran dokter penanggung jawab.",
+      "created_at": "2026-09-20T09:10:00Z"
+    },
+    {
+      "id": 16,
+      "category": "Kesehatan",
+      "title": "Layanan Siaga Panggilan Darurat Ambulans Warga",
+      "content": "Pemerintah daerah menyediakan layanan ambulans siaga 24 jam gratis untuk menangani kondisi kedaruratan medis warga seperti kecelakaan, serangan jantung, atau ibu melahirkan. Warga dapat menghubungi nomor call center gawat darurat daerah dan memberikan informasi alamat jelas serta kondisi pasien. Tim paramedis akan segera meluncur dengan peralatan pertolongan pertama menuju lokasi untuk mengevakuasi pasien ke instalasi gawat darurat rumah sakit terdekat.",
+      "created_at": "2026-09-20T09:15:00Z"
+    },
+    {
+      "id": 17,
+      "category": "Kesehatan",
+      "title": "Pemeriksaan Golongan Darah dan Rhesus di Puskesmas",
+      "content": "Layanan tes laboratorium penentuan golongan darah (A, B, AB, O) dan rhesus dapat dilakukan di laboratorium puskesmas dengan proses cepat sekitar 15 menit. Pemeriksaan dilakukan dengan pengambilan sampel darah kapiler di ujung jari menggunakan jarum steril sekali pakai. Surat keterangan hasil golongan darah resmi akan dicetak oleh petugas dan dapat digunakan untuk keperluan pembuatan SIM, KTP, atau kelengkapan berkas donor darah.",
+      "created_at": "2026-09-20T09:20:00Z"
+    },
+    {
+      "id": 18,
+      "category": "Kesehatan",
+      "title": "Konsultasi Gizi dan Pencegahan Stunting Balita",
+      "content": "Puskesmas menyediakan klinik konsultasi gizi khusus bagi balita yang mengalami masalah berat badan kurang, gagal tumbuh, atau berisiko stunting. Ahli gizi puskesmas akan melakukan asesmen pola asuh makan anak, menghitung kebutuhan kalori harian, serta memberikan paket makanan tambahan (PMT) bergizi tinggi seperti biskuit dan susu. Orang tua juga diberikan edukasi cara mengolah menu makanan pendamping ASI (MPASI) yang kaya protein hewani.",
+      "created_at": "2026-09-20T09:25:00Z"
+    },
+    {
+      "id": 19,
+      "category": "Kesehatan",
+      "title": "Pelayanan Kesehatan Gigi dan Mulut di Puskesmas",
+      "content": "Poli gigi puskesmas melayani pemeriksaan kesehatan rongga mulut, penambalan gigi berlubang sederhana, pencabutan gigi sulung pada anak, pencabutan gigi tetap dewasa tanpa komplikasi, serta pembersihan karang gigi (scaling). Peserta BPJS Kesehatan dapat menikmati layanan ini secara gratis selama sesuai dengan indikasi medis, sedangkan pasien umum dikenakan tarif retribusi daerah yang sangat terjangkau.",
+      "created_at": "2026-09-20T09:30:00Z"
+    },
+    {
+      "id": 20,
+      "category": "Kesehatan",
+      "title": "Pengasapan Fogging dan Pemberantasan Nyamuk DBD",
+      "content": "Tindakan fogging atau pengasapan insektisida dilakukan di lingkungan pemukiman jika ditemukan kasus positif demam berdarah dengue (DBD) berdasarkan hasil penyelidikan epidemiologi petugas puskesmas. Warga dapat mengajukan permohonan melalui pengurus RT/RW dengan menyertakan surat keterangan rawat inap warga yang terjangkit. Selain fogging, puskesmas juga mendistribusikan bubuk abate dan menggerakkan gerakan 3M Plus untuk membasmi jentik nyamuk.",
+      "created_at": "2026-09-20T09:35:00Z"
+    },
+    {
+      "id": 21,
+      "category": "Pendidikan",
+      "title": "Pendaftaran Peserta Didik Baru (PPDB) Jalur Zonasi",
+      "content": "Jalur zonasi dalam Penerimaan Peserta Didik Baru (PPDB) diperuntukkan bagi calon siswa sekolah negeri jenjang SD, SMP, dan SMA berdasarkan radius tempat tinggal ke sekolah tujuan. Seleksi dihitung menggunakan titik koordinat rumah sesuai alamat yang tertera di Kartu Keluarga yang diterbitkan minimal satu tahun sebelum masa pendaftaran. Pendaftaran dilakukan secara daring mandiri melalui portal resmi PPDB daerah dengan mengunggah KK dan akta kelahiran.",
+      "created_at": "2026-09-20T09:40:00Z"
+    },
+    {
+      "id": 22,
+      "category": "Pendidikan",
+      "title": "Pengajuan Program Indonesia Pintar (PIP) KIP Sekolah",
+      "content": "Program Indonesia Pintar merupakan bantuan tunai pendidikan dari pemerintah pusat bagi siswa usia sekolah dari keluarga miskin atau rentan miskin. Bantuan ini disalurkan langsung ke rekening Simpanan Pelajar (SimPel) siswa melalui bank penyalur resmi. Syarat pengajuan meliputi kepemilikan Kartu Indonesia Pintar (KIP), terdaftar di DTKS Kemensos, serta usulan dari pihak sekolah melalui pembaruan data di sistem Dapodik sekolah bersangkutan.",
+      "created_at": "2026-09-20T09:45:00Z"
+    },
+    {
+      "id": 23,
+      "category": "Pendidikan",
+      "title": "Tata Cara Mutasi atau Pindah Sekolah Antar Wilayah",
+      "content": "Siswa yang ingin pindah sekolah karena orang tua berpindah tugas domisili harus mengurus surat mutasi dari sekolah asal yang ditandatangani kepala sekolah. Selanjutnya, pemohon meminta surat rekomendasi persetujuan mutasi dari dinas pendidikan kabupaten/kota asal dan dinas pendidikan kota tujuan. Sekolah tujuan akan menerima siswa tersebut apabila kuota rombongan belajar pada kelas yang bersangkutan masih tersedia.",
+      "created_at": "2026-09-20T09:50:00Z"
+    },
+    {
+      "id": 24,
+      "category": "Pendidikan",
+      "title": "Legalisir Salinan Ijazah dan Dokumen Kelulusan",
+      "content": "Pengesahan atau legalisir fotokopi ijazah, sertifikat hasil ujian, dan rapor dilakukan langsung di sekolah yang menerbitkan dokumen tersebut dengan membawa dokumen asli untuk dicocokkan. Apabila sekolah asal telah tutup atau merger, legalisir dapat diajukan ke kantor dinas pendidikan setempat pada bidang pembinaan persekolahan. Pelayanan legalisir tidak dipungut biaya dan umumnya dapat selesai dalam waktu satu hari kerja.",
+      "created_at": "2026-09-20T09:55:00Z"
+    },
+    {
+      "id": 25,
+      "category": "Pendidikan",
+      "title": "Penerbitan Surat Keterangan Pengganti Ijazah Hilang",
+      "content": "Ijazah yang hilang karena bencana banjir, kebakaran, atau kecurian tidak dapat dicetak ulang dengan blanko yang sama, melainkan diterbitkan Surat Keterangan Pengganti Ijazah (SKPI) yang berkekuatan hukum setara. Pemohon wajib melampirkan surat kehilangan dari kepolisian, fotokopi ijazah lama jika ada, surat pernyataan tanggung jawab mutlak bermeterai, serta menghadirkan dua orang saksi teman seangkatan saat pengurusan di sekolah dan dinas pendidikan.",
+      "created_at": "2026-09-20T10:00:00Z"
+    },
+    {
+      "id": 26,
+      "category": "Pendidikan",
+      "title": "Pendaftaran Program Kesetaraan Paket A, B, dan C",
+      "content": "Program pendidikan kesetaraan Paket A (setara SD), Paket B (setara SMP), dan Paket C (setara SMA) diselenggarakan di Pusat Kegiatan Belajar Masyarakat (PKBM) bagi warga putus sekolah atau kelompok usia dewasa. Pembelajaran dilaksanakan secara fleksibel pada akhir pekan atau malam hari. Lulusan program ini berhak mengikuti ujian kesetaraan nasional dan memperoleh ijazah resmi negara yang sah untuk melamar kerja atau melanjutkan kuliah.",
+      "created_at": "2026-09-20T10:05:00Z"
+    },
+    {
+      "id": 27,
+      "category": "Pendidikan",
+      "title": "Beasiswa Pemerintah Daerah bagi Mahasiswa Berprestasi",
+      "content": "Pemerintah kabupaten/kota menyediakan alokasi beasiswa tahunan untuk mahasiswa berprestasi dan mahasiswa kurang mampu yang sedang menempuh pendidikan diploma maupun sarjana di PTN/PTS. Komponen beasiswa berupa subsidi biaya uang kuliah tunggal (UKT) dan uang saku bulanan. Pendaftar harus melampirkan KTP daerah setempat, kartu tanda mahasiswa aktif, transkrip nilai dengan IPK minimal sesuai ketentuan, serta surat bebas narkoba.",
+      "created_at": "2026-09-20T10:10:00Z"
+    },
+    {
+      "id": 28,
+      "category": "Pendidikan",
+      "title": "Pembuatan Kartu Anggota Perpustakaan Daerah",
+      "content": "Masyarakat umum dan pelajar dapat memanfaatkan fasilitas perpustakaan daerah secara gratis dengan membuat kartu anggota resmi. Pendaftaran dapat dilakukan langsung di loket layanan perpustakaan atau secara online melalui website dinas perpustakaan dan kearsipan daerah. Anggota yang telah terdaftar berhak meminjam hingga tiga buku bacaan selama 14 hari serta mengakses ruang baca ber-AC, komputer referensi riset, dan koleksi buku digital.",
+      "created_at": "2026-09-20T10:15:00Z"
+    },
+    {
+      "id": 29,
+      "category": "Pendidikan",
+      "title": "Pelatihan Keterampilan Komputer dan Desain Digital Gratis",
+      "content": "Dinas pendidikan menyelenggarakan program kursus keterampilan teknologi informasi dasar dan desain komunikasi visual gratis bagi pemuda usia produktif. Pelatihan mencakup aplikasi perkantoran, desain grafis promosi, dan dasar pembuatan website untuk membekali peserta menghadapi dunia kerja modern. Di akhir masa pelatihan selama dua minggu, peserta yang lulus akan memperoleh sertifikat kompetensi resmi yang diakui dunia industri.",
+      "created_at": "2026-09-20T10:20:00Z"
+    },
+    {
+      "id": 30,
+      "category": "Pendidikan",
+      "title": "Layanan Pelaporan Pungutan Liar di Lingkungan Sekolah",
+      "content": "Orang tua murid dan masyarakat dapat melaporkan adanya pungutan liar atau sumbangan wajib yang tidak berdasar aturan di sekolah negeri melalui kanal pengaduan dinas pendidikan dan Ombudsman. Laporan harus mencantumkan nama sekolah, jenis pungutan, nominal, bukti kuitansi atau pesan edaran, serta identitas pelapor yang dirahasiakan. Tim pengawas inspektorat dinas akan segera melakukan klarifikasi dan penindakan tegas kepada pihak sekolah.",
+      "created_at": "2026-09-20T10:25:00Z"
+    },
+    {
+      "id": 31,
+      "category": "Sosial",
+      "title": "Pendaftaran DTKS untuk Pengajuan Bantuan Sosial",
+      "content": "Data Terpadu Kesejahteraan Sosial (DTKS) merupakan acuan utama pemerintah dalam menyalurkan aneka program bantuan sosial seperti PKH, BPNT sembako, dan PBI BPJS gratis. Warga yang merasa layak mendapatkan bansos dapat mendaftarkan diri melalui musyawarah kelurahan dengan membawa KTP dan KK. Petugas pendamping sosial akan melakukan survei lapangan untuk memverifikasi kondisi tempat tinggal, sanitasi, dan aset ekonomi keluarga sebelum dimasukkan ke sistem SIKS-NG.",
+      "created_at": "2026-09-20T10:30:00Z"
+    },
+    {
+      "id": 32,
+      "category": "Sosial",
+      "title": "Pengecekan Status Kepesertaan Bantuan Sosial",
+      "content": "Masyarakat dapat memeriksa status penerimaan program bantuan sosial secara mandiri melalui laman resmi cekbansos.kemensos.go.id tanpa harus datang ke kantor dinas sosial. Cukup pilih nama provinsi, kabupaten/kota, kecamatan, desa/kelurahan, dan masukkan nama lengkap sesuai KTP. Sistem akan menampilkan rincian apakah yang bersangkutan berstatus sebagai penerima manfaat aktif, jenis bansos yang diterima, serta periode penyaluran dana bantuannya.",
+      "created_at": "2026-09-20T10:35:00Z"
+    },
+    {
+      "id": 33,
+      "category": "Sosial",
+      "title": "Penyaluran Bantuan Langsung Tunai (BLT) Dana Desa",
+      "content": "BLT Dana Desa dialokasikan dari anggaran pendapatan dan belanja desa yang diprioritaskan bagi keluarga miskin ekstrem di wilayah perdesaan. Kriteria penerima meliputi kepala keluarga yang kehilangan mata pencaharian, keluarga dengan anggota penderita penyakit kronis menahun, serta lansia tunggal. Nominal bantuan umumnya disalurkan per triwulan melalui musyawarah desa khusus secara transparan di balai desa setempat.",
+      "created_at": "2026-09-20T10:40:00Z"
+    },
+    {
+      "id": 34,
+      "category": "Sosial",
+      "title": "Penerbitan Surat Keterangan Tidak Mampu (SKTM)",
+      "content": "Surat Keterangan Tidak Mampu (SKTM) diterbitkan oleh pihak kantor kelurahan bagi keluarga berpenghasilan rendah yang membutuhkan keringanan biaya tertentu. SKTM lazim digunakan untuk permohonan keringanan biaya pengobatan rumah sakit, pembebasan biaya perkara di pengadilan, atau pengajuan penyesuaian UKT kuliah mahasiswa. Pemohon membawa surat pengantar RT/RW, fotokopi KK, KTP, dan foto kondisi tampak depan rumah tinggal.",
+      "created_at": "2026-09-20T10:45:00Z"
+    },
+    {
+      "id": 35,
+      "category": "Sosial",
+      "title": "Program Bantuan Permakanan bagi Lansia Terlantar",
+      "content": "Dinas Sosial menyelenggarakan program penyaluran permakanan gratis berupa makanan siap saji sehat sebanyak dua porsi setiap hari untuk lansia tunggal dan disabilitas berat yang tidak memiliki keluarga pengurus. Menu makanan disiapkan oleh kelompok masyarakat (Pokmas) setempat dengan standar gizi yang diawasi tenaga medis. Petugas pengantar akan mengantarkan makanan langsung ke rumah penerima manfaat setiap pagi dan siang hari.",
+      "created_at": "2026-09-20T10:50:00Z"
+    },
+    {
+      "id": 36,
+      "category": "Sosial",
+      "title": "Pengajuan Alat Bantu Mobilitas Fisik dan Kursi Roda",
+      "content": "Penyandang disabilitas fisik dan lansia yang mengalami kesulitan mobilitas dari keluarga tidak mampu dapat mengajukan bantuan alat penunjang secara cuma-cuma ke Dinas Sosial. Bantuan berupa kursi roda standar, kruk penyangga jalan, tongkat adaptif tuna netra, atau alat bantu dengar. Syaratnya mencakup surat permohonan dari kelurahan, fotokopi KTP dan KK pemohon, serta surat keterangan rekomendasi medis dari dokter puskesmas.",
+      "created_at": "2026-09-20T10:55:00Z"
+    },
+    {
+      "id": 37,
+      "category": "Sosial",
+      "title": "Layanan Rehabilitasi dan Penampungan Panti Sosial",
+      "content": "Pemerintah daerah mengoperasikan panti sosial sebagai tempat penampungan sementara dan pusat rehabilitasi bagi orang terlantar, gepeng, serta lansia tanpa keluarga. Panti menyediakan fasilitas tempat tinggal bersih, kebutuhan sandang pangan harian, bimbingan kerohanian, serta perawatan kesehatan dasar. Bagi warga yang masih memiliki sanak keluarga, dinas sosial akan melakukan mediasi penelusuran keluarga (reunifikasi) agar dapat kembali ke lingkungan keluarga.",
+      "created_at": "2026-09-20T11:00:00Z"
+    },
+    {
+      "id": 38,
+      "category": "Sosial",
+      "title": "Bantuan Darurat Logistik Korban Bencana Alam",
+      "content": "Posko tanggap darurat bencana dinas sosial dan BPBD siap menyalurkan bantuan logistik darurat dalam waktu kurang dari 24 jam pasca terjadinya musibah kebakaran permukiman, banjir bandang, atau tanah longsor. Bantuan meliputi paket makanan siap saji, beras, mie instan, air minum mineral, matras tidur, terpal pengungsian, pakaian bersih pantas pakai, serta perlengkapan kebersihan diri untuk menopang kehidupan korban di tenda pengungsian.",
+      "created_at": "2026-09-20T11:05:00Z"
+    },
+    {
+      "id": 39,
+      "category": "Sosial",
+      "title": "Bimbingan Keterampilan Usaha bagi Penyandang Disabilitas",
+      "content": "Dinas sosial mengadakan pelatihan vokasi dan kemandirian berkala bagi penyandang disabilitas usia produktif. Bidang keahlian yang diajarkan meliputi teknik pijat refleksi bersertifikat, kerajinan souvenir, tata boga rumahan, serta pelatihan perbaikan barang elektronik ringan. Setelah lulus pelatihan, para peserta difasilitasi peralatan kerja awal dan pendampingan pemasaran agar mampu berwirausaha mandiri tanpa bergantung pada orang lain.",
+      "created_at": "2026-09-20T11:10:00Z"
+    },
+    {
+      "id": 40,
+      "category": "Sosial",
+      "title": "Bantuan Santunan Duka bagi Warga Miskin",
+      "content": "Pemerintah daerah menyediakan program santunan kematian berupa uang tunai duka cita untuk meringankan beban biaya pemakaman keluarga miskin yang anggotanya meninggal dunia. Ahli waris dapat mengajukan klaim santunan selambat-lambatnya 30 hari kalender setelah pemakaman dengan menyerahkan fotokopi akta kematian, KK almarhum, KTP ahli waris, SKTM dari kelurahan, dan nomor rekening bank atas nama ahli waris yang sah.",
+      "created_at": "2026-09-20T11:15:00Z"
+    },
+    {
+      "id": 41,
+      "category": "Perizinan",
+      "title": "Penerbitan Nomor Induk Berusaha (NIB) Usaha Mikro",
+      "content": "Nomor Induk Berusaha (NIB) merupakan identitas legalitas tunggal bagi pelaku usaha mikro dan kecil (UMK) yang berlaku sebagai tanda daftar perusahaan, angka pengenal impor, dan hak akses kepabeanan. Pembuatan NIB dilakukan secara mandiri dan gratis melalui portal Online Single Submission (OSS) oss.go.id. Pelaku usaha cukup menyiapkan NIK KTP, alamat email aktif, nomor WhatsApp, serta menentukan kode KBLI yang sesuai dengan bidang usaha yang dijalankan.",
+      "created_at": "2026-09-20T11:20:00Z"
+    },
+    {
+      "id": 42,
+      "category": "Perizinan",
+      "title": "Fasilitasi Sertifikasi Halal Gratis (SEHATI) untuk UMKM",
+      "content": "Program Sertifikasi Halal Gratis (SEHATI) melalui mekanisme self-declare diselenggarakan oleh Badan Penyelenggara Jaminan Produk Halal (BPJPH) bagi pelaku usaha makanan dan minuman skala mikro. Persyaratannya meliputi kepemilikan NIB, produk berbahan baku alami yang dipastikan kehalalannya, serta proses produksi sederhana tanpa bahan kimia berbahaya. Pelaku usaha akan didampingi Pendamping PPH resmi dari pendaftaran hingga terbitnya sertifikat halal.",
+      "created_at": "2026-09-20T11:25:00Z"
+    },
+    {
+      "id": 43,
+      "category": "Perizinan",
+      "title": "Izin Edar Sertifikat Produksi Pangan Industri Rumah Tangga (SPP-IRT)",
+      "content": "SPP-IRT wajib dimiliki pelaku usaha kuliner kemasan olahan kering rumahan guna menjamin mutu keamanan pangan bagi konsumen. Pengurusan diawali dengan pembuatan NIB di OSS, lalu mengikuti Penyuluhan Keamanan Pangan (PKP) yang diselenggarakan secara berkala oleh Dinas Kesehatan. Setelah dinas kesehatan menerbitkan sertifikat PKP dan menyetujui rancangan label kemasan sesuai ketentuan BPOM, nomor izin P-IRT resmi diterbitkan.",
+      "created_at": "2026-09-20T11:30:00Z"
+    },
+    {
+      "id": 44,
+      "category": "Perizinan",
+      "title": "Surat Keterangan Usaha (SKU) dari Kelurahan",
+      "content": "Surat Keterangan Usaha (SKU) diterbitkan oleh lurah atau kepala desa untuk membuktikan bahwa pemohon benar-benar memiliki kegiatan usaha fisik di wilayah tersebut. SKU umumnya menjadi salah satu berkas persyaratan utama saat mengajukan pinjaman Kredit Usaha Rakyat (KUR) di bank atau bantuan permodalan daerah. Pemohon membawa surat pengantar RT/RW, fotokopi KTP, KK, dan foto tempat usaha yang sedang beroperasi.",
+      "created_at": "2026-09-20T11:35:00Z"
+    },
+    {
+      "id": 45,
+      "category": "Perizinan",
+      "title": "Layanan Konsultasi Usaha Gratis di Pusat Layanan Usaha Terpadu (PLUT)",
+      "content": "Pusat Layanan Usaha Terpadu (PLUT-KUMKM) bentukan dinas koperasi menyediakan fasilitas konsultasi bisnis gratis bagi wirausahawan pemula maupun UMKM yang ingin naik kelas. Konsultan ahli siap memberikan pendampingan mengenai manajemen keuangan dan pembukuan usaha, teknik foto katalog produk, strategi pemasaran digital di media sosial, hingga desain kemasan produk agar tampil menarik dan bernilai jual tinggi di pasar modern.",
+      "created_at": "2026-09-20T11:40:00Z"
+    },
+    {
+      "id": 46,
+      "category": "Perizinan",
+      "title": "Pendaftaran Hak Sewa Lapak Resmi Pasar Tradisional",
+      "content": "Pedagang yang ingin berjualan secara tertib dan memiliki tempat tetap di pasar rakyat milik daerah dapat mendaftarkan hak sewa kios atau los dagang ke kantor pengelola pasar. Berkas yang disyaratkan antara lain fotokopi KTP, pasfoto pemohon, dan surat pernyataan kesanggupan mematuhi tata tertib pasar serta membayar retribusi kebersihan harian. Pengelola pasar akan menerbitkan Kartu Izin Berjualan resmi setelah verifikasi selesai.",
+      "created_at": "2026-09-20T11:45:00Z"
+    },
+    {
+      "id": 47,
+      "category": "Perizinan",
+      "title": "Izin Pemasangan Materi Reklame dan Spanduk Usaha",
+      "content": "Pemasangan media promosi seperti baliho, spanduk jalan, neon box, atau banner di ruang publik wajib mengantongi izin resmi dari Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP). Pemohon mengajukan permohonan dengan menyertakan desain materi iklan, ukuran dimensi, titik lokasi pemasangan, dan jangka waktu tayang. Petugas akan menghitung besaran pajak reklame dan retribusi titik lokasi sebelum izin penempelan stiker sah diterbitkan.",
+      "created_at": "2026-09-20T11:50:00Z"
+    },
+    {
+      "id": 48,
+      "category": "Perizinan",
+      "title": "Persyaratan Pengajuan Kredit Usaha Rakyat (KUR) Mikro",
+      "content": "KUR Mikro merupakan program pembiayaan modal kerja atau investasi bersubsidi bunga dari pemerintah yang disalurkan melalui bank BUMN untuk pelaku usaha produktif. Pinjaman dapat diajukan hingga plafon tertentu tanpa agunan tambahan fisik. Syarat utama mencakup usaha telah berjalan aktif minimal 6 bulan, memiliki NIB atau SKU dari kelurahan, KTP, KK, serta tidak sedang memiliki riwayat kredit macet di sistem informasi SLIK Otoritas Jasa Keuangan.",
+      "created_at": "2026-09-20T11:55:00Z"
+    },
+    {
+      "id": 49,
+      "category": "Perizinan",
+      "title": "Pelatihan Onboarding Toko Online di Marketplace",
+      "content": "Dinas perindustrian dan perdagangan menyelenggarakan bimbingan teknis digitalisasi UMKM untuk membantu pedagang tradisional merambah pasar online. Materi pelatihan meliputi cara membuat toko di marketplace terkemuka, penulisan deskripsi produk yang ramah mesin pencari, pengaturan jasa ekspedisi pengiriman, hingga pemanfaatan fitur promosi live streaming. Pelatihan ini diadakan gratis dan difasilitasi jaringan internet berkecepatan tinggi.",
+      "created_at": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": 50,
+      "category": "Perizinan",
+      "title": "Pendampingan Pendaftaran Merek Dagang HKI bagi UMKM",
+      "content": "Guna mencegah peniruan dan klaim sepihak atas nama merek dagang produk lokal, dinas koperasi memfasilitasi pendaftaran Hak Kekayaan Intelektual (HKI) ke Ditjen KI Kemenkumham dengan tarif subsidi khusus UMKM. Pemohon akan dibantu melakukan pengecekan nama merek di basis data nasional agar tidak terjadi kesamaan fonetik, pembuatan surat rekomendasi dinas, serta pengunggahan berkas logo merek hingga terbit sertifikat merek.",
+      "created_at": "2026-09-20T12:05:00Z"
+    },
+    {
+      "id": 51,
+      "category": "Pajak",
+      "title": "Pembayaran Pajak Bumi dan Bangunan (PBB-P2) Online",
+      "content": "Wajib pajak dapat melunasi tagihan PBB-P2 tahunan secara praktis tanpa perlu mendatangi kantor kas daerah. Pembayaran dapat dilakukan melalui ATM perbankan, mobile banking, minimarket waralaba, serta aplikasi dompet digital cukup dengan memasukkan Nomor Objek Pajak (NOP) 18 digit dan tahun pajak. Pastikan pembayaran dilakukan sebelum tanggal jatuh tempo pada akhir September setiap tahunnya guna menghindari denda bunga keterlambatan sebesar 1% per bulan.",
+      "created_at": "2026-09-20T12:10:00Z"
+    },
+    {
+      "id": 52,
+      "category": "Pajak",
+      "title": "Permohonan Balik Nama SPPT PBB Tanah dan Bangunan",
+      "content": "Pengalihan nama kepemilikan pada Surat Pemberitahuan Pajak Terutang (SPPT) PBB wajib diurus setelah terjadinya transaksi jual beli, warisan, atau hibah tanah. Pemohon menyerahkan formulir mutasi subjek pajak ke Badan Pendapatan Daerah (Bapenda) dengan melampirkan fotokopi sertifikat tanah, akta jual beli dari PPAT, fotokopi KTP pemilik baru, SPPT PBB asli tahun terakhir, serta bukti lunas tagihan PBB 5 tahun ke belakang.",
+      "created_at": "2026-09-20T12:15:00Z"
+    },
+    {
+      "id": 53,
+      "category": "Pajak",
+      "title": "Pembetulan Data Luas Objek Pajak pada SPPT PBB",
+      "content": "Apabila luas tanah atau luas bangunan yang tertera pada SPPT PBB berbeda dengan luasan fisik di sertifikat tanah, wajib pajak berhak mengajukan pembetulan. Berkas yang diperlukan meliputi formulir permohonan pembetulan dari kelurahan, fotokopi sertifikat hak milik, denah situasi bangunan, dan KTP. Petugas penilai Bapenda akan melakukan verifikasi berkas dan jika diperlukan mengadakan pengukuran ulang di lapangan sebelum menerbitkan ketetapan pajak baru.",
+      "created_at": "2026-09-20T12:20:00Z"
+    },
+    {
+      "id": 54,
+      "category": "Pajak",
+      "title": "Pembayaran Pajak Kendaraan Bermotor (PKB) Tahunan",
+      "content": "Pengesahan STNK dan pelunasan PKB tahunan dapat dilakukan di loket Samsat induk, gerai Samsat keliling, atau secara digital melalui aplikasi Signal (Samsat Digital Nasional). Dokumen yang wajib dibawa ke lokasi layanan adalah STNK asli, lembar ketetapan pajak asli (SKPD), serta e-KTP asli pemilik kendaraan yang identitas namanya cocok dengan nama di STNK. Waktu pelayanan di gerai keliling berkisar antara 5 hingga 10 menit jika berkas telah lengkap.",
+      "created_at": "2026-09-20T12:25:00Z"
+    },
+    {
+      "id": 55,
+      "category": "Pajak",
+      "title": "Perpanjangan STNK dan Penggantian Pelat Nomor 5 Tahunan",
+      "content": "Perpanjangan STNK 5 tahunan mewajibkan fisik kendaraan bermotor dibawa langsung ke kantor Samsat induk untuk dilakukan pemeriksaan cek fisik berupa gesek nomor rangka dan nomor mesin. Setelah hasil cek fisik disahkan, pemohon menuju loket pendaftaran dengan membawa STNK lama asli, BPKB asli dan fotokopi, serta KTP asli pemilik. Setelah membayar biaya PKB, SWDKLLJ, dan PNBP plat baru, pemohon akan menerima STNK baru dan pelat nomor TNKB fisik.",
+      "created_at": "2026-09-20T12:30:00Z"
+    },
+    {
+      "id": 56,
+      "category": "Pajak",
+      "title": "Balik Nama Kendaraan Bermotor (BBNKB) Bekas",
+      "content": "Proses bea balik nama kendaraan bermotor bekas dilakukan untuk memindahkan kepemilikan dokumen resmi dari pemilik lama ke pemilik baru secara hukum. Pemohon membawa kendaraan ke Samsat asal untuk cek fisik dan melampirkan BPKB asli, STNK asli, kuitansi jual beli bermeterai cukup, serta KTP asli pembeli baru. Setelah proses pembayaran BBNKB dan registrasi selesai, Samsat menerbitkan STNK baru dan dilanjutkan penerbitan BPKB baru di kantor Polda setempat.",
+      "created_at": "2026-09-20T12:35:00Z"
+    },
+    {
+      "id": 57,
+      "category": "Pajak",
+      "title": "Pemanfaatan Program Pemutihan Denda Pajak Kendaraan",
+      "content": "Pemerintah provinsi secara berkala memberlakukan program relaksasi atau pemutihan denda pajak kendaraan bermotor untuk mendorong kepatuhan wajib pajak. Dalam masa program ini, seluruh denda keterlambatan PKB dan denda keterlambatan SWDKLLJ tahun-tahun lalu dibebaskan 100%, sehingga pemilik kendaraan hanya perlu membayar pokok pajaknya saja. Informasi jadwal resmi pemutihan disosialisasikan secara luas melalui media sosial resmi Bapenda provinsi.",
+      "created_at": "2026-09-20T12:40:00Z"
+    },
+    {
+      "id": 58,
+      "category": "Pajak",
+      "title": "Pembayaran Retribusi Pelayanan Persampahan Rumah Tinggal",
+      "content": "Retribusi kebersihan dipungut oleh pemerintah daerah untuk membiayai operasional pengangkutan sampah dari Tempat Penampungan Sementara (TPS) menuju Tempat Pemrosesan Akhir (TPA). Besaran tarif retribusi diatur berdasarkan klasifikasi jalan dan daya listrik rumah tinggal pemohon. Pembayaran dapat disetorkan setiap bulan melalui petugas juru pungut resmi kelurahan, pengurus RT/RW, atau melalui nomor virtual account bank kas daerah.",
+      "created_at": "2026-09-20T12:45:00Z"
+    },
+    {
+      "id": 59,
+      "category": "Pajak",
+      "title": "Perhitungan dan Pembayaran Pajak Restoran bagi Usaha Kuliner",
+      "content": "Pemilik usaha rumah makan, kafe, katering, dan warung makan dengan omzet bulanan melebihi batas batas ambang non-kena pajak wajib mendaftarkan diri sebagai wajib pajak daerah (PB1). Tarif pajak restoran ditetapkan maksimal 10% dari nilai transaksi pembayaran makanan dan minuman oleh konsumen. Pengusaha wajib melaporkan omzet bulanan melalui sistem daring Bapenda dan menyetorkan nilai pajaknya ke kas daerah paling lambat tanggal 15 setiap bulannya.",
+      "created_at": "2026-09-20T12:50:00Z"
+    },
+    {
+      "id": 60,
+      "category": "Pajak",
+      "title": "Penerbitan Surat Keterangan Lunas Pajak Daerah",
+      "content": "Surat Keterangan Fiskal atau Keterangan Lunas Pajak Daerah (Tax Clearance) sering disyaratkan bagi pelaku usaha yang hendak mengikuti tender pengadaan barang dan jasa pemerintah daerah atau perpanjangan izin tertentu. Permohonan diajukan ke kantor Bapenda dengan melampirkan fotokopi KTP, NPWPD, dan bukti pelunasan PBB serta pajak daerah lainnya. Bapenda akan menerbitkan surat keterangan resmi setelah memverifikasi bahwa pemohon tidak memiliki tunggakan pajak aktif.",
+      "created_at": "2026-09-20T12:55:00Z"
+    },
+    {
+      "id": 61,
+      "category": "Transportasi",
+      "title": "Pembuatan Surat Izin Mengemudi (SIM) C Baru",
+      "content": "Permohonan SIM C baru untuk pengemudi sepeda motor dilaksanakan di kantor Satpas SIM kepolisian bagi warga yang telah berusia minimal 17 tahun. Pemohon membawa fotokopi e-KTP, surat keterangan sehat dari dokter, serta hasil tes psikologi yang dapat dilakukan di lokasi Satpas. Tahapan selanjutnya adalah mengikuti ujian teori berbasis komputer dan ujian keterampilan praktik berkendara di lintasan sirkuit huruf S yang telah disesuaikan dengan aturan terkini.",
+      "created_at": "2026-09-20T13:00:00Z"
+    },
+    {
+      "id": 62,
+      "category": "Transportasi",
+      "title": "Perpanjangan Masa Berlaku SIM A dan SIM C di Mobil Keliling",
+      "content": "Layanan mobil SIM Keliling melayani perpanjangan masa aktif SIM A dan SIM C sebelum masa berlakunya habis. Pastikan permohonan diajukan setidaknya beberapa hari sebelum tanggal kedaluwarsa, karena jika SIM telah lewat masa berlaku walau satu hari, pemohon wajib menempuh prosedur pembuatan SIM baru dari awal. Pemohon wajib membawa SIM lama yang masih aktif, fotokopi KTP, surat kesehatan, dan surat lulus tes psikologi resmi.",
+      "created_at": "2026-09-20T13:05:00Z"
+    },
+    {
+      "id": 63,
+      "category": "Transportasi",
+      "title": "Pemeriksaan Uji Emisi Gas Buang Kendaraan Bermotor",
+      "content": "Uji emisi gas buang bertujuan memastikan mesin kendaraan bermotor menghasilkan emisi pembakaran yang tidak melebihi ambang batas karbon monoksida dan hidrokarbon yang ditetapkan undang-undang. Uji emisi dapat dilakukan di bengkel resmi APM, bengkel umum bersertifikat, atau pada pos uji emisi keliling dinas perhubungan. Kendaraan yang dinyatakan lulus uji akan memperoleh bukti sertifikat digital dan terdata otomatis di sistem informasi uji emisi daerah.",
+      "created_at": "2026-09-20T13:10:00Z"
+    },
+    {
+      "id": 64,
+      "category": "Transportasi",
+      "title": "Panduan Pembayaran Tiket Bus Trans Perkotaan Non-Tunai",
+      "content": "Armada bus umum perkotaan menerapkan sistem pembayaran tarif tiket 100% non-tunai demi kelancaran dan transparansi operasional. Penumpang dapat menggunakan kartu uang elektronik terbitan bank (seperti e-Money, Flazz, Brizzi, TapCash) atau memindai kode QRIS melalui aplikasi dompet digital ponsel pintar saat hendak menaiki bus. Tarif yang dikenakan bersifat flat dan terintegrasi untuk perpindahan koridor dalam kurun waktu tertentu.",
+      "created_at": "2026-09-20T13:15:00Z"
+    },
+    {
+      "id": 65,
+      "category": "Transportasi",
+      "title": "Layanan Angkutan Ramah Disabilitas dan Lansia",
+      "content": "Pemerintah daerah mengoperasikan armada bus perkotaan berlantai rendah (low-deck) yang dilengkapi fasilitas ramah penyandang disabilitas kursi roda, lansia, dan ibu hamil. Tersedia jembatan lipat mekanis untuk akses masuk kursi roda, ruang khusus berpengait pengaman di dalam kabin, serta tempat duduk prioritas bertanda khusus. Petugas kondektur bus selalu siap membantu penumpang prioritas saat naik dan turun di halte tujuan.",
+      "created_at": "2026-09-20T13:20:00Z"
+    },
+    {
+      "id": 66,
+      "category": "Transportasi",
+      "title": "Pelaporan Lampu Penerangan Jalan Umum (PJU) yang Padam",
+      "content": "Masyarakat dapat melaporkan adanya lampu penerangan jalan umum (PJU) yang padam, rusak berkedip, atau tertutup pepohonan rimbun melalui call center dinas perhubungan atau aplikasi aduan kota. Dalam laporannya, warga diharapkan menyebutkan nama ruas jalan, titik patokan terdekat, dan nomor stiker tiang PJU jika tersedia. Tim teknisi PJU bergerak menggunakan mobil tangga hidrolik untuk melakukan perbaikan lampu dalam 1x24 jam sejak laporan diverifikasi.",
+      "created_at": "2026-09-20T13:25:00Z"
+    },
+    {
+      "id": 67,
+      "category": "Transportasi",
+      "title": "Pengaduan Rambu Lalu Lintas Rusak atau Tertutup Pohon",
+      "content": "Rambu petunjuk arah, larangan parkir, atau lampu lampu lalu lintas (traffic light) yang tertutup ranting pohon lebat dapat membahayakan keselamatan pengguna jalan raya. Warga dapat menyampaikan laporan aduan fasilitas keselamatan jalan ini ke dinas perhubungan dengan melampirkan foto kondisi rambu dan titik lokasi GPS. Dinas perhubungan akan berkoordinasi dengan petugas pertamanan untuk memangkas dahan perintang atau mengganti rambu yang rusak.",
+      "created_at": "2026-09-20T13:30:00Z"
+    },
+    {
+      "id": 68,
+      "category": "Transportasi",
+      "title": "Pengajuan Pemasangan Pita Penggaduh atau Polisi Tidur Lingkungan",
+      "content": "Warga yang merasa kecepatan kendaraan di jalan lingkungan pemukiman terlalu tinggi dapat mengajukan usulan pemasangan marka kejut atau alat pembatas kecepatan (speed bump). Usulan diajukan secara tertulis oleh pengurus RW kepada dinas perhubungan setempat dengan melampirkan surat persetujuan tertulis dari mayoritas warga sekitar. Petugas dinas perhubungan akan melakukan survei lokasi untuk menentukan spesifikasi tinggi dan kelayakan marka sesuai regulasi keselamatan lalu lintas.",
+      "created_at": "2026-09-20T13:35:00Z"
+    },
+    {
+      "id": 69,
+      "category": "Transportasi",
+      "title": "Bantuan Mobil Derek Resmi Dishub untuk Kendaraan Mogok",
+      "content": "Bagi pengendara roda empat yang mengalami kerusakan mesin mendadak, pecah ban ganda, atau kecelakaan di ruas jalan protokol, dinas perhubungan menyediakan armada mobil derek resmi. Derek ini bertugas mengevakuasi kendaraan dari badan jalan menuju bengkel terdekat atau bahu jalan yang aman guna menghindari kemacetan arus lalu lintas. Layanan evakuasi derek darurat di jalan umum kota ini disediakan bebas biaya pungutan liar.",
+      "created_at": "2026-09-20T13:40:00Z"
+    },
+    {
+      "id": 70,
+      "category": "Transportasi",
+      "title": "Pengujian Berkala (Uji KIR) Angkutan Barang dan Penumpang",
+      "content": "Kendaraan bermotor wajib uji berkala seperti mobil pickup, truk barang, bus penumpang, dan angkutan kota diwajibkan menjalani uji KIR setiap enam bulan sekali di unit PKB Dinas Perhubungan. Item pengujian mencakup uji rem (brake tester), uji ketebalan asap atau emisi, pemeriksaan lampu utama, uji speedometer, dan kelaikan visual kolong sasis rangka. Kendaraan yang lulus uji KIR akan dibekali kartu uji pintar berbasis elektronik (Bukti Lulus Uji Elektronik/BLUE).",
+      "created_at": "2026-09-20T13:45:00Z"
+    },
+    {
+      "id": 71,
+      "category": "Lingkungan",
+      "title": "Jadwal dan Ketentuan Pengangkutan Sampah Pemukiman",
+      "content": "Dinas Lingkungan Hidup menetapkan rute dan jadwal teratur bagi armada gerobak motor dan truk sampah kelurahan untuk mengangkut sampah domestik dari tempat pembuangan sampah rumah tangga. Warga diimbau meletakkan kantong sampah yang terikat rapi di depan pagar rumah masing-masing pada pagi hari sebelum jam operasional truk dimulai. Petugas kebersihan akan mengangkut sampah menuju Tempat Penampungan Sementara (TPS) sebelum dibawa ke TPA regional.",
+      "created_at": "2026-09-20T13:50:00Z"
+    },
+    {
+      "id": 72,
+      "category": "Lingkungan",
+      "title": "Pendaftaran Nasabah dan Tata Cara Menabung di Bank Sampah",
+      "content": "Bank sampah di tingkat RW mengajak warga untuk mengonversi sampah anorganik kering menjadi saldo bernilai rupiah. Warga dapat mendaftar menjadi nasabah baru cukup dengan membawa fotokopi KTP, lalu membawa sampah yang telah dipilah seperti kardus, botol plastik PET, kaleng aluminium, dan minyak jelantah pada hari penimbangan terjadwal. Petugas akan menimbang dan mencatat nilai tukar sampah ke dalam buku tabungan bank sampah yang dapat dicairkan secara berkala.",
+      "created_at": "2026-09-20T13:55:00Z"
+    },
+    {
+      "id": 73,
+      "category": "Lingkungan",
+      "title": "Permohonan Bibit Tanaman dan Pohon Pelindung Gratis",
+      "content": "Guna meningkatkan ruang terbuka hijau dan mengurangi polusi udara, Dinas Lingkungan Hidup dan Kehutanan menyediakan program pembagian bibit pohon buah dan tanaman peneduh gratis bagi masyarakat. Pemohon kelompok RT, komunitas pegiat lingkungan, atau sekolah dapat mengajukan surat permohonan resmi dengan mencantumkan luasan lahan yang akan ditanami. Bibit yang umum disediakan mencakup pohon mangga, pucuk merah, tabebuya, ketapang kencana, dan mahoni.",
+      "created_at": "2026-09-20T14:00:00Z"
+    },
+    {
+      "id": 74,
+      "category": "Lingkungan",
+      "title": "Laporan Pembuangan Sampah Liar di Ruang Terbuka",
+      "content": "Tumpukan sampah ilegal di lahan kosong, kolong jembatan, atau bantaran kali dapat dilaporkan warga secara cepat melalui aplikasi aduan dinas lingkungan hidup. Laporan yang disertai foto dokumentasi dan titik lokasi akan segera ditindaklanjuti dengan penerjunan tim oranye untuk operasi pembersihan massal. Pihak kelurahan setempat juga akan memasang spanduk larangan dan berkoordinasi dengan Satpol PP guna menjatuhkan denda tipiring bagi pembuang sampah sembarangan.",
+      "created_at": "2026-09-20T14:05:00Z"
+    },
+    {
+      "id": 75,
+      "category": "Lingkungan",
+      "title": "Layanan Sedot Tangki Septik Domestik (L2T2)",
+      "content": "Pemerintah daerah menyediakan Layanan Lumpur Tinja Terjadwal (L2T2) untuk menguras septic tank rumah tangga secara berkala setiap 3 tahun sekali demi mencegah pencemaran air tanah pemukiman. Warga dapat memesan layanan resmi mobil sedot tinja melalui kantor UPTD Pengelolaan Air Limbah dengan tarif retribusi daerah yang resmi dan transparan. Lumpur tinja yang disedot dijamin akan dibuang dan diolah secara aman dan higienis di Instalasi Pengolahan Lumpur Tinja (IPLT).",
+      "created_at": "2026-09-20T14:10:00Z"
+    },
+    {
+      "id": 76,
+      "category": "Lingkungan",
+      "title": "Fasilitasi Kerja Bakti Massal Kebersihan Saluran Air",
+      "content": "Pengurus RT atau RW yang merencanakan agenda kerja bakti pembersihan selokan dan saluran drainase lingkungan dapat mengajukan dukungan sarana kerja kepada dinas kebersihan. Dinas menyediakan bantuan peminjaman karung penampung lumpur, cangkul, sarung tangan karet, serta menyiagakan armada truk pengangkut sedimen lumpur pada hari pelaksanaan kegiatan. Dukungan ini bertujuan memastikan sedimen saluran air terangkut bersih dan tidak menumpuk kembali di pinggir jalan.",
+      "created_at": "2026-09-20T14:15:00Z"
+    },
+    {
+      "id": 77,
+      "category": "Lingkungan",
+      "title": "Panduan Pemilahan Sampah Organik dan Anorganik Rumah Tangga",
+      "content": "Edukasi pemilahan sampah dari sumbernya mewajibkan setiap keluarga menyediakan minimal dua tempat sampah terpisah di dalam rumah. Tempat sampah organik digunakan khusus untuk sisa makanan, kulit buah, dan daun layu, sedangkan tempat sampah anorganik diperuntukkan bagi kertas, plastik kemasan, botol kaca, dan logam. Sampah anorganik yang bersih memiliki nilai jual tinggi untuk didaur ulang, sedangkan sampah organik dapat diolah menjadi pupuk kompos ramah lingkungan.",
+      "created_at": "2026-09-20T14:20:00Z"
+    },
+    {
+      "id": 78,
+      "category": "Lingkungan",
+      "title": "Permohonan Pemangkasan Dahan Pohon Rawan Tumbang",
+      "content": "Pohon pelindung di tepi jalan raya atau halaman fasilitas publik yang batangnya sudah lapuk, miring, atau rantingnya menjulur membahayakan jaringan kabel PLN dapat diajukan untuk perompesan. Warga menyampaikan permohonan ke Dinas Pertamanan dan Hutan Kota. Petugas pemeliharaan pohon yang dilengkapi peralatan gergaji mesin (chainsaw) dan mobil crane akan dikerahkan untuk memangkas cabang rawan guna mengantisipasi bahaya pohon tumbang saat hujan badai.",
+      "created_at": "2026-09-20T14:25:00Z"
+    },
+    {
+      "id": 79,
+      "category": "Lingkungan",
+      "title": "Pelatihan Pembuatan Pupuk Kompos dengan Komposter Ember",
+      "content": "Dinas Lingkungan Hidup menyelenggarakan penyuluhan dan pelatihan teknik pengolahan sampah basah dapur menjadi pupuk cair (POC) dan kompos padat menggunakan metode komposter ember tumpuk. Peserta pelatihan diajarkan cara mengombinasikan sisa sayur dapur dengan mikroorganisme pengurai (EM4) dan sekam padi agar tidak berbau busuk. Metode sederhana ini terbukti efektif mengurangi volume buangan sampah rumah tangga ke tempat pembuangan akhir hingga 40%.",
+      "created_at": "2026-09-20T14:30:00Z"
+    },
+    {
+      "id": 80,
+      "category": "Lingkungan",
+      "title": "Penertiban dan Sanksi Pembakaran Sampah Terbuka",
+      "content": "Aktivitas pembakaran sampah di area pemukiman padat dilarang keras oleh peraturan daerah karena asap beracunnya dapat mengganggu pernapasan warga sekitar dan memicu risiko kebakaran rumah. Warga yang terganggu dapat melaporkan kejadian tersebut kepada Satgas Lingkungan Hidup kelurahan. Petugas akan mendatangi lokasi untuk memadamkan api, memberikan teguran lisan terstruktur, dan jika perbuatan diulangi dapat dikenakan sanksi denda administratif pencemaran udara.",
+      "created_at": "2026-09-20T14:35:00Z"
+    },
+    {
+      "id": 81,
+      "category": "Ketenagakerjaan",
+      "title": "Penerbitan Kartu Tanda Pencari Kerja (AK-1 / Kartu Kuning)",
+      "content": "Kartu AK-1 atau kartu kuning diterbitkan oleh Dinas Tenaga Kerja sebagai dokumen bukti identitas resmi bagi warga negara yang sedang mencari pekerjaan. Pengurusan kartu ini gratis dan dapat diajukan secara daring melalui situs siapkerja.kemnaker.go.id atau langsung di loket dinas tenaga kerja setempat. Berkas yang diperlukan meliputi fotokopi KTP daerah setempat, pasfoto 3x4 berwarna, serta fotokopi ijazah dan transkrip nilai pendidikan formal terakhir.",
+      "created_at": "2026-09-20T14:40:00Z"
+    },
+    {
+      "id": 82,
+      "category": "Ketenagakerjaan",
+      "title": "Pendaftaran Pelatihan Kejuruan Gratis di Balai Latihan Kerja (BLK)",
+      "content": "Balai Latihan Kerja (BLK) milik pemerintah daerah menyelenggarakan berbagai program pelatihan vokasi bersertifikat gratis untuk meningkatkan kompetensi pencari kerja. Jurusan yang dibuka meliputi teknik otomotif sepeda motor, instalasi kelistrikan, teknik pendingin AC, perhotelan, barista kopi, hingga pemrograman komputer dasar. Peserta mendapatkan modul materi, pakaian seragam praktik, uang saku harian, serta fasilitas uji sertifikasi kompetensi profesi.",
+      "created_at": "2026-09-20T14:45:00Z"
+    },
+    {
+      "id": 83,
+      "category": "Ketenagakerjaan",
+      "title": "Informasi dan Akses Bursa Kerja Daerah (Job Fair)",
+      "content": "Dinas tenaga kerja secara periodik menggelar bursa kerja akbar (Job Fair) yang mempertemukan langsung puluhan perusahaan swasta dan BUMN dengan ribuan pencari kerja lokal. Acara ini terbuka untuk lulusan jenjang SMA/SMK sederajat hingga sarjana dari berbagai bidang ilmu tanpa dipungut biaya masuk. Pengunjung diimbau membuat akun di portal Siap Kerja terlebih dahulu dan menyiapkan curriculum vitae (CV) digital dalam gawai masing-masing.",
+      "created_at": "2026-09-20T14:50:00Z"
+    },
+    {
+      "id": 84,
+      "category": "Ketenagakerjaan",
+      "title": "Konsultasi dan Edukasi Upah Minimum Regional (UMK)",
+      "content": "Dinas tenaga kerja menyediakan posko konsultasi bagi para pekerja dan serikat buruh terkait penerapan Upah Minimum Kabupaten/Kota (UMK) yang ditetapkan oleh gubernur setiap tahunnya. Petugas memberikan penjelasan mengenai komponen upah pokok, tunjangan tetap, dasar formula perhitungan upah lembur resmi pada hari kerja maupun hari libur, serta kewajiban perusahaan dalam menerapkan struktur dan skala upah berdasarkan masa kerja dan prestasi karyawan.",
+      "created_at": "2026-09-20T14:55:00Z"
+    },
+    {
+      "id": 85,
+      "category": "Ketenagakerjaan",
+      "title": "Prosedur Pencairan Klaim Saldo JHT BPJS Ketenagakerjaan",
+      "content": "Pekerja yang telah berhenti bekerja karena resign, pemutusan hubungan kerja (PHK), atau habis masa kontrak dapat mencairkan seluruh saldo Jaminan Hari Tua (JHT) miliknya secara online melalui aplikasi JMO (untuk saldo di bawah 10 juta rupiah) atau portal Lapak Asik. Dokumen yang diunggah meliputi kartu BPJS Ketenagakerjaan, e-KTP, buku tabungan atas nama sendiri, serta surat keterangan berhenti bekerja (paklaring) dari pihak perusahaan pemberi kerja.",
+      "created_at": "2026-09-20T15:00:00Z"
+    },
+    {
+      "id": 86,
+      "category": "Ketenagakerjaan",
+      "title": "Pendaftaran BPJS Ketenagakerjaan Sektor Bukan Penerima Upah (BPU)",
+      "content": "Pekerja mandiri, pedagang pasar, petani, pengemudi ojek online, dan seniman lepas dapat menjadi peserta BPJS Ketenagakerjaan program Bukan Penerima Upah (BPU). Iuran bulanan dimulai dari tarif sangat murah yakni Rp16.800 per bulan untuk perlindungan Jaminan Kecelakaan Kerja (JKK) dan Jaminan Kematian (JKM). Peserta mendapatkan penggantian biaya medis pengobatan kecelakaan kerja tanpa batas plafon sesuai indikasi medis serta santunan kematian bagi ahli waris.",
+      "created_at": "2026-09-20T15:05:00Z"
+    },
+    {
+      "id": 87,
+      "category": "Ketenagakerjaan",
+      "title": "Layanan Mediasi Perselisihan Hubungan Industrial dan PHK",
+      "content": "Apabila terjadi perselisihan hak, pemutusan hubungan kerja (PHK), atau perselisihan kepentingan antara pekerja dan manajemen perusahaan yang gagal diselesaikan di tingkat bipartit, kedua pihak dapat memohon mediasi tripartit di Disnaker. Mediator hubungan industrial resmi akan menjadwalkan sidang mediasi damai, mengkaji bukti berkas perkara, dan menerbitkan risalah anjuran tertulis yang berkekuatan hukum dalam waktu 30 hari kerja.",
+      "created_at": "2026-09-20T15:10:00Z"
+    },
+    {
+      "id": 88,
+      "category": "Ketenagakerjaan",
+      "title": "Program Pemagangan Kerja Dalam Negeri Bersertifikat",
+      "content": "Program pemagangan terpadu menghubungkan lulusan baru SMK dan perguruan tinggi dengan perusahaan industri mitra untuk mendapatkan pengalaman kerja riil di tempat kerja sesungguhnya selama 5 hingga 6 bulan. Peserta magang mendapatkan perlindungan asuransi jaminan sosial ketenagakerjaan, bimbingan langsung dari mentor industri profesional, uang saku bulanan dari pemerintah, serta sertifikat pemagangan resmi yang diakui secara nasional.",
+      "created_at": "2026-09-20T15:15:00Z"
+    },
+    {
+      "id": 89,
+      "category": "Ketenagakerjaan",
+      "title": "Uji Kompetensi Kerja Nasional Bersertifikat BNSP Gratis",
+      "content": "Guna meningkatkan daya saing tenaga kerja lokal di pasar tenaga kerja internasional dan regional, dinas tenaga kerja memfasilitasi program asesmen uji kompetensi Badan Nasional Sertifikasi Profesi (BNSP) secara gratis. Ujian praktik dan wawancara portofolio dilaksanakan bersama Lembaga Sertifikasi Profesi (LSP) terlisensi. Tenaga kerja yang dinyatakan kompeten berhak menyandang sertifikat kompetensi nasional berlogo garuda emas.",
+      "created_at": "2026-09-20T15:20:00Z"
+    },
+    {
+      "id": 90,
+      "category": "Ketenagakerjaan",
+      "title": "Posko Pengaduan Tunjangan Hari Raya (THR) Keagamaan",
+      "content": "Menjelang hari raya keagamaan, Kementerian Ketenagakerjaan bersama dinas daerah membuka posko pelayanan konsultasi dan penegakan hukum Tunjangan Hari Raya (THR). Pekerja dengan masa kerja minimal satu bulan terus menerus berhak mendapatkan pembayaran THR paling lambat 7 hari sebelum hari raya tiba. Pekerja yang mendapati perusahaannya mencicil atau tidak membayarkan THR dapat mengadukan secara langsung atau online untuk ditindaklanjuti pengawas ketenagakerjaan.",
+      "created_at": "2026-09-20T15:25:00Z"
+    },
+    {
+      "id": 91,
+      "category": "Ketertiban Umum",
+      "title": "Laporan Gangguan Ketertiban dan Suara Bising Lingkungan",
+      "content": "Warga yang merasa kenyamanan lingkungan tempat tinggalnya terganggu oleh suara bising tempat hiburan malam tak berizin, bengkel motor knalpot brong liar, atau aktivitas pesta miras dapat melapor ke posko Satpol PP terdekat. Laporan dapat disampaikan melalui nomor aduan masyarakat kota dengan menyertakan alamat jelas. Petugas regu patroli reaksi cepat Satpol PP akan segera diterjunkan ke lokasi untuk melakukan penertiban dan pembinaan di tempat.",
+      "created_at": "2026-09-20T15:30:00Z"
+    },
+    {
+      "id": 92,
+      "category": "Ketertiban Umum",
+      "title": "Layanan Panggilan Darurat Pemadam Kebakaran dan Evakuasi",
+      "content": "Dinas Pemadam Kebakaran dan Penyelamatan (Damkar) menyediakan saluran siaga panggilan darurat bebas pulsa 24 jam untuk menangani musibah kebakaran bangunan, kendaraan bermotor, dan instalasi gardu listrik. Penelpon dimohon menyebutkan lokasi jalan secara spesifik, patokan gedung terdekat, dan ada tidaknya korban terjebak di dalam bangunan. Armada mobil pemadam pos terdekat akan diberangkatkan menuju lokasi dalam hitungan menit tanpa pungutan biaya apapun.",
+      "created_at": "2026-09-20T15:35:00Z"
+    },
+    {
+      "id": 93,
+      "category": "Ketertiban Umum",
+      "title": "Operasi Evakuasi Sarang Tawon dan Satwa Liar oleh Damkar",
+      "content": "Selain memadamkan kobaran api, regu penyelamatan Damkar melayani permohonan pertolongan non-kebakaran (animal rescue), seperti evakuasi sarang tawon vespa berbahaya di atap rumah, evakuasi ular berbisa masuk kamar, hingga kucing tercebur sumur. Operasi evakuasi sarang tawon biasanya dilakukan pada malam hari saat tawon tidak aktif untuk meminimalkan sengatan. Layanan rescue satwa liar ini diberikan secara profesional dan gratis bagi warga.",
+      "created_at": "2026-09-20T15:40:00Z"
+    },
+    {
+      "id": 94,
+      "category": "Ketertiban Umum",
+      "title": "Peminjaman Aula dan Gedung Pertemuan Serbaguna Kelurahan",
+      "content": "Fasilitas gedung pertemuan serbaguna milik kelurahan dapat dipinjam oleh masyarakat untuk menyelenggarakan kegiatan musyawarah warga, peringatan hari nasional, pesta pernikahan sederhana, atau kegiatan donor darah. Pemohon mengajukan surat permohonan resmi kepada lurah dengan melampirkan fotokopi KTP penanggung jawab dan rincian waktu kegiatan. Pengguna gedung wajib menjaga kebersihan, mematuhi jam batas operasional malam, serta membayar biaya retribusi pemeliharaan aset daerah.",
+      "created_at": "2026-09-20T15:45:00Z"
+    },
+    {
+      "id": 95,
+      "category": "Ketertiban Umum",
+      "title": "Pemberitahuan dan Pengurusan Izin Keramaian Kegiatan Warga",
+      "content": "Kegiatan kemasyarakatan yang melibatkan kerumunan massa dalam jumlah besar seperti konser musik kampung, festival jalanan, atau penutupan jalan umum untuk resepsi pernikahan wajib memberitahukan izin keramaian ke kantor Polsek setempat. Berkas yang disiapkan mencakup surat persetujuan lingkungan bertanda tangan tetangga sekitar, surat pengantar RT/RW, fotokopi KTP penanggung jawab, serta denah pengalihan arus lalu lintas yang dikoordinasikan bersama pihak kepolisian.",
+      "created_at": "2026-09-20T15:50:00Z"
+    },
+    {
+      "id": 96,
+      "category": "Ketertiban Umum",
+      "title": "Penerbitan Surat Keterangan Catatan Kepolisian (SKCK)",
+      "content": "SKCK diterbitkan oleh kepolisian resor (Polres) atau kepolisian sektor (Polsek) sebagai bukti resmi bahwa pemohon tidak sedang memiliki catatan pelanggaran hukum atau tindak pidana kejahatan. Berkas persyaratan meliputi fotokopi e-KTP, Kartu Keluarga, akta kelahiran, rumus sidik jari dari unit inafis, bukti kepesertaan aktif BPJS Kesehatan, serta pasfoto 4x6 latar belakang merah sebanyak 6 lembar. Biaya PNBP penerbitan SKCK sebesar Rp30.000 sesuai peraturan pemerintah.",
+      "created_at": "2026-09-20T15:55:00Z"
+    },
+    {
+      "id": 97,
+      "category": "Ketertiban Umum",
+      "title": "Penanganan Anjing Liar dan Vaksinasi Rabies Hewan Peliharaan",
+      "content": "Dinas Ketahanan Pangan dan Peternakan menyediakan layanan penertiban hewan penular rabies (HPR) seperti anjing dan kucing liar tak berpemilik yang meresahkan lingkungan pemukiman. Selain itu, dinas menyelenggarakan posko vaksinasi rabies gratis secara berkelanjutan untuk hewan peliharaan warga. Pemilik hewan cukup membawa kucing atau anjing peliharaannya yang berusia di atas 3 bulan dalam kondisi sehat untuk disuntik vaksin dan dicatat dalam buku riwayat kesehatan hewan.",
+      "created_at": "2026-09-20T16:00:00Z"
+    },
+    {
+      "id": 98,
+      "category": "Ketertiban Umum",
+      "title": "Pemasangan Sambungan Baru Air Bersih Perumahan PDAM",
+      "content": "Warga yang ingin berlangganan saluran air bersih perpipaan dari Perumda Air Minum (PDAM) dapat mendaftar langsung di loket pelayanan kantor cabang PDAM atau melalui aplikasi mobile. Pemohon menyerahkan fotokopi KTP, KK, bukti rekening listrik terpasang, serta denah sketsa lokasi rumah. Tim survei teknis PDAM akan mendatangi lokasi guna memeriksa ketersediaan jaringan pipa transmisi dan menghitung rincian biaya instalasi pipa meter air baru.",
+      "created_at": "2026-09-20T16:05:00Z"
+    },
+    {
+      "id": 99,
+      "category": "Ketertiban Umum",
+      "title": "Laporan Kebocoran Pipa Distribusi Air PDAM di Badan Jalan",
+      "content": "Pipa distribusi air bersih PDAM yang mengalami pecah atau rembesan bocor di badan jalan umum dapat dilaporkan warga melalui nomor WhatsApp center aduan kebocoran pipa pelanggan. Laporan yang mencantumkan foto genangan air bersih dan koordinat lokasi akan segera diverifikasi oleh tim piket reaksi cepat kebocoran pipa. Petugas lapangan akan diterjunkan untuk menggali dan menyambung pipa yang bocor guna mencegah pemborosan debit air bersih dan kerusakan struktur aspal jalan.",
+      "created_at": "2026-09-20T16:10:00Z"
+    },
+    {
+      "id": 100,
+      "category": "Ketertiban Umum",
+      "title": "Saluran Aspirasi dan Pengaduan Online Rakyat (SP4N-LAPOR!)",
+      "content": "SP4N-LAPOR! adalah platform resmi nasional yang terhubung langsung dengan seluruh instansi pemerintah daerah dan kementerian untuk menampung kritik, saran, serta aduan layanan publik warga. Setiap pengaduan yang masuk akan diverifikasi admin pusat dalam 3 hari kerja dan wajib ditindaklanjuti serta dijawab oleh dinas instansi terkait paling lambat dalam 5 hari kerja. Pelapor dapat memilih fitur opsi laporan 'Anonim' dan 'Rahasia' agar privasi identitas terlindungi secara penuh.",
+      "created_at": "2026-09-20T16:15:00Z"
+    }
+  ]
+}
